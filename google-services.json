@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "662192694023",
+    "firebase_url": "https://pushnyt.firebaseio.com",
+    "project_id": "pushnyt",
+    "storage_bucket": "pushnyt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662192694023:android:fcdeddcf17b1c7b5",
+        "android_client_info": {
+          "package_name": "com.pushNYT.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662192694023-pb4jh7do664m5593gf6lfj5m96rifvbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMzS02dyRizX7PBAllVApLLOgwuAfzuFA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
